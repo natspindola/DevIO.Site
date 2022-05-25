@@ -24,3 +24,5 @@ C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inde
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.RazorTargetAssemblyInfo.cs
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.Views.pdb
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csproj.CopyComplete
+C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
