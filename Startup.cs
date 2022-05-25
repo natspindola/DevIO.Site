@@ -28,9 +28,7 @@ namespace DevIO.Site
 
             app.UseMvc(routes =>
             {
-                routes.MapRoute(
-                name: "",
-                template: "");
+                routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
