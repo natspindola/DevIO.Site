@@ -8,8 +8,6 @@ C:\dev\Desenvolvedor.IO\DevIO.Site\bin\Debug\netcoreapp2.2\DevIO.Site.dll
 C:\dev\Desenvolvedor.IO\DevIO.Site\bin\Debug\netcoreapp2.2\DevIO.Site.pdb
 C:\dev\Desenvolvedor.IO\DevIO.Site\bin\Debug\netcoreapp2.2\DevIO.Site.Views.dll
 C:\dev\Desenvolvedor.IO\DevIO.Site\bin\Debug\netcoreapp2.2\DevIO.Site.Views.pdb
-C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csproj.AssemblyReference.cache
-C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.AssemblyInfoInputs.cache
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.AssemblyInfo.cs
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csproj.CoreCompileInputs.cache
@@ -29,3 +27,4 @@ C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.dll
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.pdb
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.genruntimeconfig.cache
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csproj.CopyComplete
+C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csprojAssemblyReference.cache
