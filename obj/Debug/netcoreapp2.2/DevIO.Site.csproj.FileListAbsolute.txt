@@ -28,3 +28,4 @@ C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.pdb
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.genruntimeconfig.cache
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csproj.CopyComplete
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csprojAssemblyReference.cache
+C:\dev\Desenvolvedor.IO\DevIO.Site\bin\Debug\netcoreapp2.2\bundleconfig.json
