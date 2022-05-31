@@ -29,4 +29,5 @@ C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.genruntime
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csproj.CopyComplete
 C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\DevIO.Site.csprojAssemblyReference.cache
 C:\dev\Desenvolvedor.IO\DevIO.Site\bin\Debug\netcoreapp2.2\bundleconfig.json
-C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\Razor\Areas\Produtos\Views\Cadastro\Index.cshtml.g.cs
+C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\Razor\Modulos\Produtos\Views\Cadastro\Index.cshtml.g.cs
+C:\dev\Desenvolvedor.IO\DevIO.Site\obj\Debug\netcoreapp2.2\Razor\Modulos\Produtos\Views\_ViewStart.cshtml.g.cs
