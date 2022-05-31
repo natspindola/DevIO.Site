@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DevIO.Site.Areas.Produtos.Controllers
 {
+    [Area("Produtos")]
     public class CadastroController : Controller
     {
         public IActionResult Index()
