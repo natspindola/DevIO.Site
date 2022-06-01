@@ -16,7 +16,7 @@ namespace DevIO.Site.Controllers
             _pedidoRepository = pedidoRepository;
         }
 
-        public IActionResult Index()
+        public IActionResult Index([FromServices] IPedidoRepository _pedidoRepository)
         {
             var pedido = _pedidoRepository.ObterPedido();
 
