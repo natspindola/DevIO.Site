@@ -41,7 +41,7 @@ namespace DevIO.Site
             {
                 routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
-                routes.MapRoute("areas", "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+                //routes.MapRoute("areas", "{area:exists}/{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
