@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using DevIO.Site.Data;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Razor;
@@ -25,6 +26,8 @@ namespace DevIO.Site
             });
 
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
+
+            services.AddTransient<IPedidoRepository, PedidoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
