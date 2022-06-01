@@ -41,7 +41,8 @@ namespace DevIO.Site
             {
                 routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
-                //routes.MapRoute("areas", "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+                routes.MapAreaRoute(name:"AreaProdutos", areaName:"Produtos", template:"Produtos/{controller=Cadastro}/{action=Index}/{id?}");
+                routes.MapAreaRoute(name:"AreaVendas", areaName:"Vendas", template:"Vendas/{controller=Pedidos}/{action=Index}/{id?}");
             });
         }
     }
