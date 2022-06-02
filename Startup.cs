@@ -26,6 +26,8 @@ namespace DevIO.Site
                 options.AreaViewLocationFormats.Add(item: "/Views/Shared/{0}.cshtml");
             });
 
+            services.AddDbContext<MeuDbContext>();
+
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
 
             services.AddTransient<IPedidoRepository, PedidoRepository>();
